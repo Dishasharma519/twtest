@@ -454,7 +454,7 @@ const Sidebar = ({ currentPage, setCurrentPage }) => (
     <nav className="w-64 bg-gray-800 p-4 flex flex-col shadow-2xl">
         <div className="flex items-center space-x-2 mb-8">
             <AlertTriangle className="w-6 h-6 text-red-500" />
-            <h2 className="text-xl font-bold text-white">Risk Framework</h2>
+            <h2 className="text-xl font-bold text-white">Proactive & Intelligent Framework for Cloud Computing Risk Assessment</h2>
         </div>
         <ul className="space-y-2 flex-1">
             {navItems.map((item) => {
